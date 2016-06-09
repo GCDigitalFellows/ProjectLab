@@ -1,7 +1,3 @@
-![GCDRI logo](images/gcdrilogo.ai) 
-Format: ![Alt Text](url)
-
-
 #Identifying Audiences, Constituencies, & Collaborators
 
  * Who will participate in, use, and/or benefit from the project? 
@@ -43,10 +39,9 @@ Example of a "stakeholder":
 2. Resources/Relationships: I'm also a fellow in the New Media Lab, and they might be willing to help test my tool. 
 3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. 
 
+##Activity: Your Turn
 
- ##Your Turn
-
- ###Audience 1: 
+###Audience 1: 
 
  1. Needs/Interest: 
 
@@ -89,3 +84,8 @@ Example of a "stakeholder":
 2. Resources/Relationship: 
 
 3. Limitations/Concessions: 
+
+
+
+[<<Back] (1Ideas.md)	.....	[Forward>>] (3Environment.md)
+

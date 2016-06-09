@@ -1,4 +1,4 @@
-#Presentation
+#Presentation Template
 
 **Name:** 
 **Program:** 
@@ -14,5 +14,5 @@
 **What additional support will you need as you take your next steps?**
 
 
-[<<Back] (10Proposal.md)	.....	[Index>>] (index.md)
+[<<Back] (10Proposal.md)	.....	[Example>>] (12Instructions.md)
 
