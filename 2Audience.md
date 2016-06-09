@@ -39,10 +39,9 @@ Example of a "stakeholder":
 2. Resources/Relationships: I'm also a fellow in the New Media Lab, and they might be willing to help test my tool. 
 3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. 
 
+##Activity: Your Turn
 
- ##Your Turn
-
- ###Audience 1: 
+###Audience 1: 
 
  1. Needs/Interest: 
 
