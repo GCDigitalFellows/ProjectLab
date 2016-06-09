@@ -3,7 +3,7 @@
 “Clear eyes. Full hearts. Can't lose."
 *Friday Night Lights*
 
-[Clear eyes. Full hearts. Can't lose. (https://github.com/GCDigitalFellows/ProjectLab/blob/master/images/clear-eyes.jpg) "Clear eyes. Full Heart. Can't lose."]
+![Clear eyes. Full hearts. Can't lose.](https://github.com/GCDigitalFellows/ProjectLab/blob/master/images/clear-eyes.jpg "Clear eyes. Full Heart. Can't lose.")
 
 ##Agenda
 1. Big Picture thinking
