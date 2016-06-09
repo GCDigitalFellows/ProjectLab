@@ -5,13 +5,13 @@
 
 ###**Project title:** Projects made Easy!
 
-**2 Sentence abstract: **
+**2 Sentence abstract**
 My project is going to make every installation seamless. It will make all of your Python dreams come true, your databases tidy, and your Git Hub happy. 
 
-**What resources do you have now? **
+**What resources do you have now?**
 
 
-**What have you learned this week that will help you? **
+**What have you learned this week that will help you?**
 
 **What additional support will you need as you take your next steps?**
 
