@@ -1,7 +1,3 @@
-![GCDRI logo](images/gcdrilogo.ai) 
-Format: ![Alt Text](url)
-
-
 #Identifying Audiences, Constituencies, & Collaborators
 
  * Who will participate in, use, and/or benefit from the project? 
