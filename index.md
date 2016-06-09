@@ -1,32 +1,25 @@
 # Project Laboratory
 
 
-![Clear eyes. Full hearts. Can't lose.](https://github.com/GCDigitalFellows/ProjectLab/blob/master/images/clear-eyes.jpg "Clear eyes. Full Heart. Can't lose.")
-
-“Clear eyes. Full hearts. Can't lose."
-~ *Friday Night Lights*
-
 We are going to work out the process for designing your digital research project in this session. Good--or shall we say effective--projects begin with a plan. It's true those plans may change over the life cycle of the project. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change. 
 
 What separates projects that turn into something from those that stall out and go nowhere is the forumlation of a **reasonable, informed, and purposeful plan**.
-  
+
 
 ##Agenda
-1. Big Picture thinking (Begin with the end in mind)
-2. Identify key audiences, constituencies, and collaborators
-3. Environmental scan
-4. Resource assessment
-5. Outreach 
-6. Work Plans: Scoping and Scheduling
-7. Sustainability and Data Management
-8. Effective Partnerships
-9. Finding Funding
-10. Draft Project Proposal
-11. Presentation Slide
+1. [Begin with the end in mind] (1Ideas.md)
+2. [Identify key audiences, constituencies, and collaborators] (2Audience.md)
+3. [Environmental scan] (3Environment.md)
+4. [Resource assessment] (4Resources.md)
+5. [Outreach] (5Outreach.md) 
+6. [Work Plans: Scoping and Scheduling] (6Workplan.md)
+7. [Sustainability and Data Management] (7Sustainability.md)
+8. [Effective Partnerships] (8Partnerships.md)
+9. [Finding Funding] (9Findingfunds.md)
+10. [Draft Project Proposal] (10Proposal.md)
+11. [Presentation Slide] (11Presentation.md)
 
 ##Why?
-
-![Because the real goal is to "do" something](https://github.com/GCDigitalFellows/ProjectLab/blob/master/images/taylordo.jpg "Shut up and do.")
 
 Most workshops teach you something: a skill, a method, a practice. But what are you going to do next? Sure you've learned how to start to use Python. You might have done some natural language processing or written your first webpage, but the real trick is figuring out how to take what you've learned, plan for what comes next, and make your project come to fruition. 
 
