@@ -10,13 +10,9 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 ##Search federal databases for a list of previously funded grant projects: 
 
 *Institute of Museum and Library Services
-
 *National Endowment for the Humanities Funded Projects Query Form
-
 *National Endowment for the Arts (NEA) Recent Grants: 
-
 *National Science Foundation
-
 *National Institutes of Health
 
 ##Search and browse through literature in the field and resources for digital tools and innovations. Some examples of places to look include: 
