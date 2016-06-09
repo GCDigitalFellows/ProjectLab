@@ -89,3 +89,8 @@ Example of a "stakeholder":
 2. Resources/Relationship: 
 
 3. Limitations/Concessions: 
+
+
+
+[<<Back] (1Ideas.md)	.....	[Forward>>] (3Environment.md)
+
