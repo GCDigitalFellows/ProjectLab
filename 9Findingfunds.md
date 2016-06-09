@@ -14,12 +14,12 @@ Now that you have started to form:
 	* Federal agencies list all of their available grants on http://grants.gov.
 	* States also have opportunities for grants, such as state humanities councils. 
 	* Private foundations are also possible areas to look. The following may prove useful: 
-		* The Foundation Center: http://foundationcenter.org
+		* The Foundation Center: [http://foundationcenter.org] (http://foundationcenter.org)
 		* A Directory of State and Local Foundations: 
-		http://foundationcenter.org/getstarted/topical/sl_dir.html
+		[http://foundationcenter.org/getstarted/topical/sl_dir.html] (http://foundationcenter.org/getstarted/topical/sl_dir.html)
 		* The Council on Foundations Community Foundations List
 	 http://www.conf.org/whoweserve/community/resources/index.cfm?navitemNumber=15626#locator
-	 * The USDA offers a valuable Guide to Funding Resources http://www.nal.usda.gov/ric/ricpubs/fundguide.html#privatefunding.
+	 * The USDA offers a valuable Guide to Funding Resources [https://www.nal.usda.gov/ric/guide-to-funding-resources] (https://www.nal.usda.gov/ric/guide-to-funding-resources)
 
 2. Check your institution’s eligibility for a potential grants before beginning the application process. Eligibility requirements and restrictions are often found in grant guidelines.
 
