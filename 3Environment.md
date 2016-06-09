@@ -38,7 +38,7 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 
  *DiRT registry of digital humanities tools http://dirtdirectory.org/
 
- #Digital Humanities Now http://digitalhumanitiesnow.org/
+ *Digital Humanities Now http://digitalhumanitiesnow.org/
 
  *SSRC's Items http://items.ssrc.org/
 
@@ -52,6 +52,6 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 
  *AAAS Trellis https://www.trelliscience.com/#/site-home
 
-##Search preprint repositories, academic repositories, and data warehouses for similar datasets
+####Search preprint repositories, academic repositories, and data warehouses for similar datasets
 
 
