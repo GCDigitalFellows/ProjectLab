@@ -1,4 +1,10 @@
 # Project Laboratory
+
+“Clear eyes. Full hearts. Can't lose."
+*Friday Night Lights*
+
+![Clear eyes. Full hearts. Can't lose. (https://github.com/gcdigitalfellows/ProjectLab/images/clear-eyes.jpg) "Clear eyes. Full Heart. Can't lose."]
+
 ##Agenda
 1. Big Picture thinking
 2. Identify key audiences, constituencies, and collaborators
