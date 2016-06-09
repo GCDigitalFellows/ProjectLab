@@ -4,6 +4,7 @@ Conductin an in-depth environmental scan and literature review early in the plan
 
 Successful project proposals demonstrate knowledge of the ecosystem of existing projects in your field, and the field's response to those projects. Scans often help organizations identify potential collaborators, national intitiatives, publications, articles, or professional organizations, which in turn can demonstraate a wider exigency for your project. Following a preliminary scan, you should be able to explain why your project is important to the field, what it provides that does not currently exist, and how your project can serve as a leader or example to other organizations in such a way that they can put your findings to new issue. 
 
+
 Below are **suggestions** for finding similar projects and initiatives in and outside of your field: 
 
 ##Search federal databases for a list of previously funded grant projects: 
@@ -52,6 +53,41 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 
  *AAAS Trellis https://www.trelliscience.com/#/site-home
 
-####Search preprint repositories, academic repositories, and data warehouses for similar datasets
+###Other places to chheck: 
+
+*Search preprint repositories, academic repositories, and data warehouses for similar datasets
+
+*Check conference programs and gray literature from your field and related materials. 
+
+*Discuss your project idea with your colleagues inside and outside of your own department at your institution, at conferences, and even with peers in different fields. 
+
+#Activity
+
+The key to the environmental scan is to see what a wider community is already up to. How does your project fit into the ongoing work of others in your field? What about in a related field that addresses a similar question from another perspective? Is someone already working on a similar question? 
+
+1.Brainstorm where you might go to look for digital projects in your field that use emerging or new forms of technology. Try to list 3 places you might look to see how others in your field are adapting their methods to use new digital tools. 
+
+
+
+
+
+
+
+
+
+2.What technologies do most people use in your field, if any? Why do they tend to use it? Is there a reason why you want to use the same technologies as your colleagues? Is there a compelling reason to do things differently? What are the benefits of doing things differently? 
+
+
+
+
+
+
+
+3.Does your project fill a need or stake new methodological ground? How do you know? 
+
+
+
+
+
 
 
