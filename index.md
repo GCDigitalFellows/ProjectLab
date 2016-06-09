@@ -34,4 +34,4 @@ None of those things can happen without a plan. If you walk out those doors toda
 5. Communicate your plan
 
 
-
+[Let's get started!>>] (1Ideas.md)
