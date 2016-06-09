@@ -1,3 +1,7 @@
+![GCDRI logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 #Identifying Audiences and Key Constituencies
  * Who will participate in, use, and/or benefit from the project? 
  * Is there a specific group already asking for this new resource? Who? 
