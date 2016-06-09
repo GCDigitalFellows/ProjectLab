@@ -25,15 +25,15 @@ My project is going to make every installation seamless. It will make all of you
 * save this file with a new name --> yourlastname.md
 * add this file to your repository 
 
-```git add yourlastname.md
+```git add yourlastname.md```
 
-```git commit -m "my presentation file"
+```git commit -m "my presentation file"```
 
 * If you have used an image (and you can) don't forget to add your image to the image folder and then add it to your repo: 
 
-```git add images/myfile.jpg
+```git add images/myfile.jpg```
 
-```git commit -m "adding an image file"
+```git commit -m "adding an image file"```
 
 
 
