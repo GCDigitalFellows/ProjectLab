@@ -1,4 +1,4 @@
-![GCDRI logo](/images/logo.png)
+![GCDRI logo](images/gcdrilogo.ai) 
 Format: ![Alt Text](url)
 
 
