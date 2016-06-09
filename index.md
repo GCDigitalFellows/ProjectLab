@@ -6,8 +6,13 @@
 “Clear eyes. Full hearts. Can't lose."
 ~ *Friday Night Lights*
 
+We are going to work out the process for designing your digital research project in this session. Good--or shall we say effective--projects begin with a plan. It's true those plans may change over the life cycle of the project. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change. 
+
+What separates projects that turn into something from those that stall out and go nowhere is the forumlation of a **reasonable, informed, and purposeful plan**.
+  
+
 ##Agenda
-1. Big Picture thinking
+1. Big Picture thinking (Begin with the end in mind)
 2. Identify key audiences, constituencies, and collaborators
 3. Environmental scan
 4. Resource assessment
