@@ -8,44 +8,29 @@ Successful project proposals demonstrate knowledge of the ecosystem of existing 
 Below are **suggestions** for finding similar projects and initiatives in and outside of your field: 
 
 ##Search federal databases for a list of previously funded grant projects: 
-
-*Institute of Museum and Library Services
-*National Endowment for the Humanities Funded Projects Query Form
-*National Endowment for the Arts (NEA) Recent Grants: 
-*National Science Foundation
-*National Institutes of Health
+* Institute of Museum and Library Services
+* National Endowment for the Humanities Funded Projects Query Form
+* National Endowment for the Arts (NEA) Recent Grants: 
+* National Science Foundation
+* National Institutes of Health
 
 ##Search and browse through literature in the field and resources for digital tools and innovations. Some examples of places to look include: 
 
-*IMLS UpNext https://www.imls.gov/news-events/upnext-blog
-
-*D-Lib Magazine http://www.dlib.org/
-
-*The Signal: Digital Preservation http://blogs.loc.gov/digitalpreservation/
-
-*Curator Journal http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2151-6952
-
-*American Archivist http://www2.archivists.org/american-archivist#.V1kWCZMrLGI
-
-*Informal Science http://www.informalscience.org/
-
-*Center for the Future of Museums http://www.aam-us.org/resources/center-for-the-future-of-museums
-
-*OCLC blogs http://www.oclc.org/blog/main/
-
-*DiRT registry of digital humanities tools http://dirtdirectory.org/
-
-*Digital Humanities Now http://digitalhumanitiesnow.org/
-
-*SSRC's Items http://items.ssrc.org/
-
-*Ant, Spider, Bee http://www.antspiderbee.net/
-
-*PLOS http://blogs.plos.org/ & http://blogs.plos.org/collections/
-
-*The Winnower https://thewinnower.com/topics
-
-*HubZero https://hubzero.org/groups/browse
+* IMLS UpNext https://www.imls.gov/news-events/upnext-blog
+* D-Lib Magazine http://www.dlib.org/
+* The Signal: Digital Preservation http://blogs.loc.gov/digitalpreservation/
+* Curator Journal http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2151-6952
+* American Archivist http://www2.archivists.org/american-archivist#.V1kWCZMrLGI
+* Informal Science http://www.informalscience.org/
+* Center for the Future of Museums http://www.aam-us.org/resources/center-for-the-future-of-museums
+* OCLC blogs http://www.oclc.org/blog/main/
+* DiRT registry of digital humanities tools http://dirtdirectory.org/
+* Digital Humanities Now http://digitalhumanitiesnow.org/
+* SSRC's Items http://items.ssrc.org/
+* Ant, Spider, Bee http://www.antspiderbee.net/
+* PLOS http://blogs.plos.org/ & http://blogs.plos.org/collections/
+* The Winnower https://thewinnower.com/topics
+* HubZero https://hubzero.org/groups/browse
 
 *AAAS Trellis https://www.trelliscience.com/#/site-home
 
