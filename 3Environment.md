@@ -31,16 +31,13 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 * PLOS http://blogs.plos.org/ & http://blogs.plos.org/collections/
 * The Winnower https://thewinnower.com/topics
 * HubZero https://hubzero.org/groups/browse
-
-*AAAS Trellis https://www.trelliscience.com/#/site-home
+* AAAS Trellis https://www.trelliscience.com/#/site-home
 
 ###Other places to check: 
 
-*Search preprint repositories, academic repositories, and data warehouses for similar datasets
-
-*Check conference programs and gray literature from your field and related materials. 
-
-*Discuss your project idea with your colleagues inside and outside of your own department at your institution, at conferences, and even with peers in different fields. 
+* Search preprint repositories, academic repositories, and data warehouses for similar datasets
+* Check conference programs and gray literature from your field and related materials. 
+* Discuss your project idea with your colleagues inside and outside of your own department at your institution, at conferences, and even with peers in different fields. 
 
 #Activity
 
