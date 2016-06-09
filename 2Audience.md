@@ -1,4 +1,4 @@
- #Identifying Audiences and Key Constituencies
+#Identifying Audiences and Key Constituencies
  * Who will participate in, use, and/or benefit from the project? 
  * Is there a specific group already asking for this new resource? Who? 
  * The "general public" is too general an audience. the more specific your audience is the more likely you are to meet their needs. 
