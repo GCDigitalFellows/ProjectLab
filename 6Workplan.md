@@ -84,7 +84,7 @@ Using the outline below or a combination or variation of the two, begin to map o
 **Calendar-based work plans focus on getting the work done by a specific date**
 
 ####Year 1
-* Month
+	* Month
 		* Planning and Research
 		* Content Development
 		* Technical Development
@@ -93,7 +93,7 @@ Using the outline below or a combination or variation of the two, begin to map o
 		* Outreach and Publicity
 		* Advisory Committee / Consultation with Outside Specialists
 ####Year 2
-* Month
+	* Month
 		* Planning and Research
 		* Content Development
 		* Technical Development
@@ -102,7 +102,7 @@ Using the outline below or a combination or variation of the two, begin to map o
 		* Outreach and Publicity
 		* Advisory Committee / Consultation with Outside Specialists
 ####Year 3
-* Month
+	* Month
 		* Planning and Research
 		* Content Development
 		* Technical Development
