@@ -7,10 +7,10 @@ Successful project proposals demonstrate knowledge of the ecosystem of existing 
 
 Below are **suggestions** for finding similar projects and initiatives in and outside of your field: 
 
-##Search federal databases for a list of previously funded grant projects: 
+##Federal grant agencies maintain repositories with white papers from previously funded grant projects: 
 * Institute of Museum and Library Services
 * National Endowment for the Humanities Funded Projects Query Form
-* National Endowment for the Arts (NEA) Recent Grants: 
+* National Endowment for the Arts (NEA) Recent Grants 
 * National Science Foundation
 * National Institutes of Health
 
@@ -43,7 +43,7 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 
 The key to the environmental scan is to see what a wider community is already up to. How does your project fit into the ongoing work of others in your field? What about in a related field that addresses a similar question from another perspective? Is someone already working on a similar question? 
 
-1.Brainstorm where you might go to look for digital projects in your field that use emerging or new forms of technology. Try to list 3 places you might look to see how others in your field are adapting their methods to use new digital tools. 
+1. Brainstorm where you might go to look for digital projects in your field that use emerging or new forms of technology. Try to list 3 places you might look to see how others in your field are adapting their methods to use new digital tools. 
 
 
 
@@ -53,7 +53,7 @@ The key to the environmental scan is to see what a wider community is already up
 
 
 
-2.What technologies do most people use in your field, if any? Why do they tend to use it? Is there a reason why you want to use the same technologies as your colleagues? Is there a compelling reason to do things differently? What are the benefits of doing things differently? 
+2. What technologies/methods do most people use in your field, if any, for capturing, storing, exploring/analyzing, or displaying their data? Why do they tend to use it? Is there a reason why you want to use the same technologies as your colleagues? What are the benefits of doing things differently? 
 
 
 
@@ -61,7 +61,19 @@ The key to the environmental scan is to see what a wider community is already up
 
 
 
-3.Does your project fill a need or stake new methodological ground? How do you know? 
+3. Does your project fill a need or stake new methodological ground? How do you know? 
+
+
+
+
+
+4. If there aren't any technologies that do *exactly* what you were hoping for, has anyone else run into this problem? How did they solve it? Will you need to create a new tools or make significant changes to an existing one to accomplish your goal? 
+
+
+
+
+
+5. Once you have gathered information about what is "out there," what are the limits of what you are willing to change about your own project in response? How will you know if you have stretched beyond the core objectives of your own research project? 
 
 
 
