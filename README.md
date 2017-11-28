@@ -7,17 +7,17 @@ What separates projects that turn into something from those that stall out and g
 
 
 ## Agenda
-1. [Begin with the end in mind] (1Ideas.md)
-2. [Identify key audiences, constituencies, and collaborators] (2Audience.md)
-3. [Environmental scan] (3Environment.md)
-4. [Resource assessment] (4Resources.md)
-5. [Outreach] (5Outreach.md) 
-6. [Work Plans: Scoping and Scheduling] (6Workplan.md)
-7. [Sustainability and Data Management] (7Sustainability.md)
-8. [Effective Partnerships] (8Partnerships.md)
-9. [Finding Funding] (9Findingfunds.md)
-10. [Draft Project Proposal] (10Proposal.md)
-11. [Presentation Slide] (11Presentation.md)
+1. [Begin with the end in mind](1Ideas.md)
+2. [Identify key audiences, constituencies, and collaborators](2Audience.md)
+3. [Environmental scan](3Environment.md)
+4. [Resource assessment](4Resources.md)
+5. [Outreach](5Outreach.md) 
+6. [Work Plans: Scoping and Scheduling](6Workplan.md)
+7. [Sustainability and Data Management](7Sustainability.md)
+8. [Effective Partnerships](8Partnerships.md)
+9. [Finding Funding](9Findingfunds.md)
+10. [Draft Project Proposal](10Proposal.md)
+11. [Presentation Slide](11Presentation.md)
 
 ## Why?
 
