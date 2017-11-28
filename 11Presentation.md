@@ -1,11 +1,11 @@
-#Presentation Template
+# Presentation Template
 
 **Name:** 
 **Program:** 
 
 **Project title:**
 
-**2 Sentence abstract: **
+**2 Sentence abstract:**
 
 **What resources do you have now? **
 
@@ -14,5 +14,5 @@
 **What additional support will you need as you take your next steps?**
 
 
-[<<Back] (10Proposal.md)	.....	[Example>>] (12Instructions.md)
+[<<Back](10Proposal.md)	.....	[Example>>](12Instructions.md)
 
