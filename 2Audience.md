@@ -1,11 +1,11 @@
-#Identifying Audiences, Constituencies, & Collaborators
+# Identifying Audiences, Constituencies, & Collaborators
 
  * Who will participate in, use, and/or benefit from the project? 
  * Is there a specific group already asking for this new resource? Who? 
  * The "general public" is too general an audience. the more specific your audience is the more likely you are to meet their needs. 
  * Is there anything that my audience can bring to my project?
 
-##Your project **always** has an audience. 
+## Your project **always** has an audience. 
 
  * *You* are an audience. 
  * Your dissertation advisor
@@ -16,13 +16,13 @@
 
  *Projects typically satisfy more than one audience's need. The key to idenitfying a well-defined audience is research and creating several narrow profiles*
  
-###Sample 1: 
+### Sample 1: 
 
 1. Needs/Interest: Faculty who teach undergraduate linguistics classes are looking for an engaging way to teach fundamental linguistics concepts through guided practice and repetition. 
 2. Resources: They have access to chrome books, laptops, and tablets in the classroom with limited wifi. They are unable to update software frequently, but they can use web applications. 
 3. Limitations: This audience needs clear and specific documentation and has a low threshold for errors. 
 
-###Sample 2: 
+### Sample 2: 
 
 1. Needs/Interest: My dissertation committee is interested in hearing how my model of financial data offers a new approach to predicting corporate fraud. 
 2. Resources/Relationship: The committee is familiar with some of the models that already exist. They have deep familiarity with the qualitative indicators for corporate fraud. They can connect my data and my research to a wider community of scholars who have the datasets that I need to finish my work. My advisor wants me to succeed. 
@@ -34,14 +34,14 @@ Possible stakeholders include: your library, colleagues, IT division, academic p
 
 Example of a "stakeholder":
 
-###Sample: 
+### Sample: 
 1. Needs: The New Media Lab has student fellows who develop digital projects. They have expressed interest in finding a data management tool that allows students to create a plan for how to handle various types of data files. 
 2. Resources/Relationships: I'm also a fellow in the New Media Lab, and they might be willing to help test my tool. 
 3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. 
 
-##Activity: Your Turn
+## Activity: Your Turn
 
-###Audience 1: 
+### Audience 1: 
 
  1. Needs/Interest: 
 
@@ -50,7 +50,7 @@ Example of a "stakeholder":
  3. Limitations/Concessions: \
 
 
-###Audience 2: 
+### Audience 2: 
 
  1. Needs/Interest: 
 
@@ -59,7 +59,7 @@ Example of a "stakeholder":
  3. Limitations/Concessions: 
 
 
-###Audience 3: 
+### Audience 3: 
 
  1. Needs/Interest: 
 
@@ -68,7 +68,7 @@ Example of a "stakeholder":
  3. Limitations/Concessions: 
 
 
-###Audience 4: 
+### Audience 4: 
 
  1. Needs/Interest: 
 
@@ -77,7 +77,7 @@ Example of a "stakeholder":
  3. Limitations/Concessions: 
 
 
-###Internal Stakeholder: 
+### Internal Stakeholder: 
 
 1. Needs/Interest: 
 
@@ -87,5 +87,5 @@ Example of a "stakeholder":
 
 
 
-[<<Back] (1Ideas.md)	.....	[Forward>>] (3Environment.md)
+[<<Back](1Ideas.md)	.....	[Forward>>](3Environment.md)
 
