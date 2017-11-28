@@ -16,7 +16,7 @@ Do you have the dataset you need to do your project? Finding, cleaning, storing,
 
 
 ## Activity: 
-**What data resources do you have at your disposal? What do you still need? What steps do you need to take during the course of your project in order to work with the dataset now that you have a general sense of what the data needs to look like if you are working with either textual or numeric data? **
+** What data resources do you have at your disposal? What do you still need? What steps do you need to take during the course of your project in order to work with the dataset now that you have a general sense of what the data needs to look like if you are working with either textual or numeric data? **
 
 ### No?
  * If not, do you know where to go to find it? 
