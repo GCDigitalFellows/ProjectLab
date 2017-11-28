@@ -16,4 +16,4 @@ Very quickly, try to think of all the different types of data your project will 
 * Where will the data live after the project is over? 
 
 
-[<<Previous|](6
+[<<Previous|](6Workplan.md) .... [Next>>](8Partnerships.md)
