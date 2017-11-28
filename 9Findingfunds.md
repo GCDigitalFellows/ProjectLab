@@ -1,11 +1,11 @@
-#Finding Funding
+# Finding Funding
 
 Now that you have started to form:
 
 * a more refined project idea;
 * a wider awareness of the ecosystem of existing projects in your field;
 * a sense of the national, local, or institutional demand for your project;
-*  and a clearer sense of the resources at your disposal
+* and a clearer sense of the resources at your disposal
 
 ... the next step is to find an appropriate funding source. Below you will find some suggestions as to where to begin the search for funding. As you look for possible funders, below are some guidelines for the process:
 
@@ -31,7 +31,7 @@ Now that you have started to form:
 
 6. Jenny Furlong Director of the Office of Career Services will be here tomorrow, and she is an excellent resource for those interested in external fellowships. 
 
-##Activity
+## Activity
 Find one or two grant opportunites in your subject area. Consider also looking for fellowship opportunities. 
 
-[<<Back] (8Partnerships.md)	.....	[Forward>>] (10Proposal.md)
+[<<Back](8Partnerships.md)	.....	[Forward>>](10Proposal.md)
